@@ -1,4 +1,1 @@
-# homepage
-My first personal website. Basically it is just a résumé.
-
-Initial README Commit
+earn about my experience working for a company with multinational clients, showcasing my contributions and roles.
