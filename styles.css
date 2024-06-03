@@ -334,6 +334,10 @@ body {
 .skills {
   margin-bottom: 10px;
 }
+.top-skills__title {
+  font-size: 18px;
+    margin-bottom: 10px;
+}
 .top-skills__container {
   width: 100%;
   background-color: #ddd;
